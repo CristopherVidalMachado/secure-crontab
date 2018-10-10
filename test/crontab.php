@@ -1,0 +1,4 @@
+<?php
+$file;
+unlink($file);
+?>
